@@ -6,7 +6,7 @@ email: me.harsh.joshi@gmail.com
 description: "Personal website of Harsh Joshi and his rantings on DSP, ML and Chaos"
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
-url: "http://Joshi-Harsh.github.io"
+url: "Joshi-Harsh.github.io"
 
 author:
   name: Harsh Joshi
@@ -14,7 +14,7 @@ author:
   url: http://Joshi-Harsh.github.io/about.html
 
 github:
-  repo: https://github.com/Joshi-Harsh/
+  repo: https://github.com/Joshi-Harsh/Joshi-Harsh.github.io
 twitter:
   username: me_harsh_joshi
 
