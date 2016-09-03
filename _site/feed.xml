@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harsh Joshi</title>
+    <description>Personal website of Harsh Joshi and his rantings on DSP, ML and Chaos</description>
+    <link>http://Joshi-Harsh.github.io/</link>
+    <atom:link href="http://Joshi-Harsh.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 03 Sep 2016 14:07:26 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Sep 2016 14:07:26 +0000</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>It's alive!</title>
+        <description>&lt;h3 id=&quot;jekyll-is-not-bad-at-all&quot;&gt;Jekyll is not bad at all&lt;/h3&gt;
+
+&lt;p&gt;Okay so I had my reservations about setting up a blog like this using a technology stack I knew nothing about.
+I was wrong! It took me 1 day to set this up (‘am a noob at this stuff’), plus I am kinda enjoying the whole markdown experience. Now all that’s left to set up (or learn, I haven’t explored it enough to know), is MathJax and code highlighting and then I’ll be on my way to serious blogging.  I’ll update this post later to describe the process for any other noob out there who might want this. Am still setting things up so some links may not work, bear with me till then :)&lt;/p&gt;
+
+&lt;p&gt;I’m just experimenting stuffs, no big deal!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Sep 2016 00:00:00 +0000</pubDate>
+        <link>http://Joshi-Harsh.github.io/my-first-post.html</link>
+        <guid isPermaLink="true">http://Joshi-Harsh.github.io/my-first-post.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
