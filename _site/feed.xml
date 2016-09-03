@@ -3,10 +3,10 @@
   <channel>
     <title>Harsh Joshi</title>
     <description>Personal website of Harsh Joshi and his rantings on DSP, ML and Chaos</description>
-    <link>http://Joshi-Harsh.github.io/</link>
-    <atom:link href="http://Joshi-Harsh.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Sep 2016 14:07:26 +0000</pubDate>
-    <lastBuildDate>Sat, 03 Sep 2016 14:07:26 +0000</lastBuildDate>
+    <link>http://127.0.0.1:4000/</link>
+    <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 03 Sep 2016 14:18:02 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Sep 2016 14:18:02 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -19,8 +19,8 @@ I was wrong! It took me 1 day to set this up (‘am a noob at this stuff’), pl
 &lt;p&gt;I’m just experimenting stuffs, no big deal!&lt;/p&gt;
 </description>
         <pubDate>Sat, 03 Sep 2016 00:00:00 +0000</pubDate>
-        <link>http://Joshi-Harsh.github.io/my-first-post.html</link>
-        <guid isPermaLink="true">http://Joshi-Harsh.github.io/my-first-post.html</guid>
+        <link>http://127.0.0.1:4000/my-first-post.html</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/my-first-post.html</guid>
         
         
       </item>
