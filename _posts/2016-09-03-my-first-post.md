@@ -21,5 +21,5 @@ So it turned out, the CSS was being reffered to via http:// protocal in the site
 It's alive, finally. I'll upload repository page and resume later. Time to get back to analysing the data obtained from one of them simulation of pHash(it's almost done, wait for it). I'll blog about it later, stay tuned!
 
 ### Update 2
-Added the fa-inbox, fa-google-plus, fa-youtube and removed fa-twitter element, now there is a link to email me, follow me on Google+, and removed twitter (I'll add it later if I feel like it, franklyy I don't weet much so don't know about that), and a link to my Youtube channel where I'll be uploading the screen casts or other media, all via the social media icon pannel (I'mma pee all over this site, LOL) . I think I'm getting a hang of it. 
+Added the fa-inbox, fa-google-plus, fa-youtube and removed fa-twitter element (I'll add it later if I feel like it, frankly I don't tweet much so don't know about that), now there is a link to email me, follow me on Google+, and a link to my Youtube channel where I'll be uploading the screen casts or other media, all via the social media icon pannel (I'mma pee all over this site, LOL) . I think I'm getting a hang of it. 
 
